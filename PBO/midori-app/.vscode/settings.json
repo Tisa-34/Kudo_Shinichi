@@ -1,0 +1,14 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "lib"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "d:\\Midori\\midori-app\\lib\\flatlaf-demo-3.6.2.jar",
+        "d:\\Midori\\midori-app\\lib\\miglayout-swing-11.0.jar",
+        "d:\\Midori\\midori-app\\lib\\flatlaf-3.6.2.jar",
+        "d:\\Midori\\midori-app\\lib\\miglayout-core-11.0.jar",
+        "d:\\Midori\\midori-app\\lib\\flatlaf-intellij-themes-3.6.2.jar"
+    ]
+}
